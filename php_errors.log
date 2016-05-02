@@ -1,0 +1,125 @@
+[02-May-2016 05:05:39 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, class 'WooCommerce_Membership_Product' does not have a method 'post_trashed' in /home/ubuntu/workspace/wp-includes/plugin.php on line 525
+[02-May-2016 05:05:39 UTC] PHP Stack trace:
+[02-May-2016 05:05:39 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-admin/post.php:0
+[02-May-2016 05:05:39 UTC] PHP   2. wp_trash_post() /home/ubuntu/workspace/wp-admin/post.php:221
+[02-May-2016 05:05:39 UTC] PHP   3. do_action() /home/ubuntu/workspace/wp-includes/post.php:2673
+[02-May-2016 05:05:39 UTC] PHP   4. call_user_func_array:{/home/ubuntu/workspace/wp-includes/plugin.php:525}() /home/ubuntu/workspace/wp-includes/plugin.php:525
+[02-May-2016 05:05:42 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, class 'WooCommerce_Membership_Product' does not have a method 'post_trashed' in /home/ubuntu/workspace/wp-includes/plugin.php on line 525
+[02-May-2016 05:05:42 UTC] PHP Stack trace:
+[02-May-2016 05:05:42 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-admin/post.php:0
+[02-May-2016 05:05:42 UTC] PHP   2. wp_trash_post() /home/ubuntu/workspace/wp-admin/post.php:221
+[02-May-2016 05:05:42 UTC] PHP   3. do_action() /home/ubuntu/workspace/wp-includes/post.php:2673
+[02-May-2016 05:05:42 UTC] PHP   4. call_user_func_array:{/home/ubuntu/workspace/wp-includes/plugin.php:525}() /home/ubuntu/workspace/wp-includes/plugin.php:525
+[02-May-2016 05:05:55 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/wp-content/plugins/woocommerce-subscriptions/classes/class-wc-subscriptions-list-table.php on line 520
+[02-May-2016 05:05:55 UTC] PHP Stack trace:
+[02-May-2016 05:05:55 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-admin/admin.php:0
+[02-May-2016 05:05:55 UTC] PHP   2. do_action() /home/ubuntu/workspace/wp-admin/admin.php:236
+[02-May-2016 05:05:55 UTC] PHP   3. call_user_func_array:{/home/ubuntu/workspace/wp-includes/plugin.php:525}() /home/ubuntu/workspace/wp-includes/plugin.php:525
+[02-May-2016 05:05:55 UTC] PHP   4. WC_Subscriptions_Admin::subscriptions_management_page() /home/ubuntu/workspace/wp-includes/plugin.php:525
+[02-May-2016 05:05:55 UTC] PHP   5. WP_List_Table->views() /home/ubuntu/workspace/wp-content/plugins/woocommerce-subscriptions/classes/class-wc-subscriptions-admin.php:855
+[02-May-2016 05:05:55 UTC] PHP   6. WC_Subscriptions_List_Table->get_views() /home/ubuntu/workspace/wp-admin/includes/class-wp-list-table.php:389
+[02-May-2016 05:11:42 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/wp-content/plugins/woocommerce-subscriptions/classes/class-wc-subscriptions-list-table.php on line 520
+[02-May-2016 05:11:42 UTC] PHP Stack trace:
+[02-May-2016 05:11:42 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-admin/admin.php:0
+[02-May-2016 05:11:42 UTC] PHP   2. do_action() /home/ubuntu/workspace/wp-admin/admin.php:236
+[02-May-2016 05:11:42 UTC] PHP   3. call_user_func_array:{/home/ubuntu/workspace/wp-includes/plugin.php:525}() /home/ubuntu/workspace/wp-includes/plugin.php:525
+[02-May-2016 05:11:42 UTC] PHP   4. WC_Subscriptions_Admin::subscriptions_management_page() /home/ubuntu/workspace/wp-includes/plugin.php:525
+[02-May-2016 05:11:42 UTC] PHP   5. WP_List_Table->views() /home/ubuntu/workspace/wp-content/plugins/woocommerce-subscriptions/classes/class-wc-subscriptions-admin.php:855
+[02-May-2016 05:11:42 UTC] PHP   6. WC_Subscriptions_List_Table->get_views() /home/ubuntu/workspace/wp-admin/includes/class-wp-list-table.php:389
+[02-May-2016 05:16:56 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/wp-content/plugins/woocommerce-subscriptions/classes/class-wc-subscriptions-list-table.php on line 520
+[02-May-2016 05:16:56 UTC] PHP Stack trace:
+[02-May-2016 05:16:56 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-admin/admin.php:0
+[02-May-2016 05:16:56 UTC] PHP   2. do_action() /home/ubuntu/workspace/wp-admin/admin.php:236
+[02-May-2016 05:16:56 UTC] PHP   3. call_user_func_array:{/home/ubuntu/workspace/wp-includes/plugin.php:525}() /home/ubuntu/workspace/wp-includes/plugin.php:525
+[02-May-2016 05:16:56 UTC] PHP   4. WC_Subscriptions_Admin::subscriptions_management_page() /home/ubuntu/workspace/wp-includes/plugin.php:525
+[02-May-2016 05:16:56 UTC] PHP   5. WP_List_Table->views() /home/ubuntu/workspace/wp-content/plugins/woocommerce-subscriptions/classes/class-wc-subscriptions-admin.php:855
+[02-May-2016 05:16:56 UTC] PHP   6. WC_Subscriptions_List_Table->get_views() /home/ubuntu/workspace/wp-admin/includes/class-wp-list-table.php:389
+[02-May-2016 05:17:21 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/wp-content/plugins/woocommerce-subscriptions/classes/class-wc-subscriptions-list-table.php on line 520
+[02-May-2016 05:17:21 UTC] PHP Stack trace:
+[02-May-2016 05:17:21 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-admin/admin.php:0
+[02-May-2016 05:17:21 UTC] PHP   2. do_action() /home/ubuntu/workspace/wp-admin/admin.php:236
+[02-May-2016 05:17:21 UTC] PHP   3. call_user_func_array:{/home/ubuntu/workspace/wp-includes/plugin.php:525}() /home/ubuntu/workspace/wp-includes/plugin.php:525
+[02-May-2016 05:17:21 UTC] PHP   4. WC_Subscriptions_Admin::subscriptions_management_page() /home/ubuntu/workspace/wp-includes/plugin.php:525
+[02-May-2016 05:17:21 UTC] PHP   5. WP_List_Table->views() /home/ubuntu/workspace/wp-content/plugins/woocommerce-subscriptions/classes/class-wc-subscriptions-admin.php:855
+[02-May-2016 05:17:21 UTC] PHP   6. WC_Subscriptions_List_Table->get_views() /home/ubuntu/workspace/wp-admin/includes/class-wp-list-table.php:389
+[02-May-2016 05:19:28 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/wp-content/plugins/woocommerce-subscriptions/classes/class-wc-subscriptions-list-table.php on line 520
+[02-May-2016 05:19:28 UTC] PHP Stack trace:
+[02-May-2016 05:19:28 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-admin/admin.php:0
+[02-May-2016 05:19:28 UTC] PHP   2. do_action() /home/ubuntu/workspace/wp-admin/admin.php:236
+[02-May-2016 05:19:28 UTC] PHP   3. call_user_func_array:{/home/ubuntu/workspace/wp-includes/plugin.php:525}() /home/ubuntu/workspace/wp-includes/plugin.php:525
+[02-May-2016 05:19:28 UTC] PHP   4. WC_Subscriptions_Admin::subscriptions_management_page() /home/ubuntu/workspace/wp-includes/plugin.php:525
+[02-May-2016 05:19:28 UTC] PHP   5. WP_List_Table->views() /home/ubuntu/workspace/wp-content/plugins/woocommerce-subscriptions/classes/class-wc-subscriptions-admin.php:855
+[02-May-2016 05:19:28 UTC] PHP   6. WC_Subscriptions_List_Table->get_views() /home/ubuntu/workspace/wp-admin/includes/class-wp-list-table.php:389
+[02-May-2016 05:19:37 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/wp-content/plugins/woocommerce-subscriptions/classes/class-wc-subscriptions-list-table.php on line 520
+[02-May-2016 05:19:37 UTC] PHP Stack trace:
+[02-May-2016 05:19:37 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-admin/admin.php:0
+[02-May-2016 05:19:37 UTC] PHP   2. do_action() /home/ubuntu/workspace/wp-admin/admin.php:236
+[02-May-2016 05:19:37 UTC] PHP   3. call_user_func_array:{/home/ubuntu/workspace/wp-includes/plugin.php:525}() /home/ubuntu/workspace/wp-includes/plugin.php:525
+[02-May-2016 05:19:37 UTC] PHP   4. WC_Subscriptions_Admin::subscriptions_management_page() /home/ubuntu/workspace/wp-includes/plugin.php:525
+[02-May-2016 05:19:37 UTC] PHP   5. WP_List_Table->views() /home/ubuntu/workspace/wp-content/plugins/woocommerce-subscriptions/classes/class-wc-subscriptions-admin.php:855
+[02-May-2016 05:19:37 UTC] PHP   6. WC_Subscriptions_List_Table->get_views() /home/ubuntu/workspace/wp-admin/includes/class-wp-list-table.php:389
+[02-May-2016 05:19:37 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/wp-content/plugins/woocommerce-subscriptions/classes/class-wc-subscriptions-list-table.php on line 520
+[02-May-2016 05:19:37 UTC] PHP Stack trace:
+[02-May-2016 05:19:37 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-admin/admin.php:0
+[02-May-2016 05:19:37 UTC] PHP   2. do_action() /home/ubuntu/workspace/wp-admin/admin.php:236
+[02-May-2016 05:19:37 UTC] PHP   3. call_user_func_array:{/home/ubuntu/workspace/wp-includes/plugin.php:525}() /home/ubuntu/workspace/wp-includes/plugin.php:525
+[02-May-2016 05:19:37 UTC] PHP   4. WC_Subscriptions_Admin::subscriptions_management_page() /home/ubuntu/workspace/wp-includes/plugin.php:525
+[02-May-2016 05:19:37 UTC] PHP   5. WP_List_Table->views() /home/ubuntu/workspace/wp-content/plugins/woocommerce-subscriptions/classes/class-wc-subscriptions-admin.php:855
+[02-May-2016 05:19:37 UTC] PHP   6. WC_Subscriptions_List_Table->get_views() /home/ubuntu/workspace/wp-admin/includes/class-wp-list-table.php:389
+[02-May-2016 05:19:39 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/wp-content/plugins/woocommerce-subscriptions/classes/class-wc-subscriptions-list-table.php on line 520
+[02-May-2016 05:19:39 UTC] PHP Stack trace:
+[02-May-2016 05:19:39 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-admin/admin.php:0
+[02-May-2016 05:19:39 UTC] PHP   2. do_action() /home/ubuntu/workspace/wp-admin/admin.php:236
+[02-May-2016 05:19:39 UTC] PHP   3. call_user_func_array:{/home/ubuntu/workspace/wp-includes/plugin.php:525}() /home/ubuntu/workspace/wp-includes/plugin.php:525
+[02-May-2016 05:19:39 UTC] PHP   4. WC_Subscriptions_Admin::subscriptions_management_page() /home/ubuntu/workspace/wp-includes/plugin.php:525
+[02-May-2016 05:19:39 UTC] PHP   5. WP_List_Table->views() /home/ubuntu/workspace/wp-content/plugins/woocommerce-subscriptions/classes/class-wc-subscriptions-admin.php:855
+[02-May-2016 05:19:39 UTC] PHP   6. WC_Subscriptions_List_Table->get_views() /home/ubuntu/workspace/wp-admin/includes/class-wp-list-table.php:389
+[02-May-2016 05:19:42 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ubuntu/workspace/wp-includes/formatting.php:4584) in /home/ubuntu/workspace/wp-includes/pluggable.php on line 1171
+[02-May-2016 05:19:42 UTC] PHP Stack trace:
+[02-May-2016 05:19:42 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-admin/admin.php:0
+[02-May-2016 05:19:42 UTC] PHP   2. do_action() /home/ubuntu/workspace/wp-admin/admin.php:236
+[02-May-2016 05:19:42 UTC] PHP   3. call_user_func_array:{/home/ubuntu/workspace/wp-includes/plugin.php:525}() /home/ubuntu/workspace/wp-includes/plugin.php:525
+[02-May-2016 05:19:42 UTC] PHP   4. WC_Subscriptions_Admin::subscriptions_management_page() /home/ubuntu/workspace/wp-includes/plugin.php:525
+[02-May-2016 05:19:42 UTC] PHP   5. WC_Subscriptions_List_Table->prepare_items() /home/ubuntu/workspace/wp-content/plugins/woocommerce-subscriptions/classes/class-wc-subscriptions-admin.php:850
+[02-May-2016 05:19:42 UTC] PHP   6. WC_Subscriptions_List_Table->process_actions() /home/ubuntu/workspace/wp-content/plugins/woocommerce-subscriptions/classes/class-wc-subscriptions-list-table.php:628
+[02-May-2016 05:19:42 UTC] PHP   7. wp_safe_redirect() /home/ubuntu/workspace/wp-content/plugins/woocommerce-subscriptions/classes/class-wc-subscriptions-list-table.php:506
+[02-May-2016 05:19:42 UTC] PHP   8. wp_redirect() /home/ubuntu/workspace/wp-includes/pluggable.php:1257
+[02-May-2016 05:19:42 UTC] PHP   9. header() /home/ubuntu/workspace/wp-includes/pluggable.php:1171
+[02-May-2016 05:19:47 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/wp-content/plugins/woocommerce-subscriptions/classes/class-wc-subscriptions-list-table.php on line 520
+[02-May-2016 05:19:47 UTC] PHP Stack trace:
+[02-May-2016 05:19:47 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-admin/admin.php:0
+[02-May-2016 05:19:47 UTC] PHP   2. do_action() /home/ubuntu/workspace/wp-admin/admin.php:236
+[02-May-2016 05:19:47 UTC] PHP   3. call_user_func_array:{/home/ubuntu/workspace/wp-includes/plugin.php:525}() /home/ubuntu/workspace/wp-includes/plugin.php:525
+[02-May-2016 05:19:47 UTC] PHP   4. WC_Subscriptions_Admin::subscriptions_management_page() /home/ubuntu/workspace/wp-includes/plugin.php:525
+[02-May-2016 05:19:47 UTC] PHP   5. WP_List_Table->views() /home/ubuntu/workspace/wp-content/plugins/woocommerce-subscriptions/classes/class-wc-subscriptions-admin.php:855
+[02-May-2016 05:19:47 UTC] PHP   6. WC_Subscriptions_List_Table->get_views() /home/ubuntu/workspace/wp-admin/includes/class-wp-list-table.php:389
+[02-May-2016 05:20:54 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/wp-content/plugins/woocommerce-subscriptions/classes/class-wc-subscriptions-list-table.php on line 520
+[02-May-2016 05:20:54 UTC] PHP Stack trace:
+[02-May-2016 05:20:54 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-admin/admin.php:0
+[02-May-2016 05:20:54 UTC] PHP   2. do_action() /home/ubuntu/workspace/wp-admin/admin.php:236
+[02-May-2016 05:20:54 UTC] PHP   3. call_user_func_array:{/home/ubuntu/workspace/wp-includes/plugin.php:525}() /home/ubuntu/workspace/wp-includes/plugin.php:525
+[02-May-2016 05:20:54 UTC] PHP   4. WC_Subscriptions_Admin::subscriptions_management_page() /home/ubuntu/workspace/wp-includes/plugin.php:525
+[02-May-2016 05:20:54 UTC] PHP   5. WP_List_Table->views() /home/ubuntu/workspace/wp-content/plugins/woocommerce-subscriptions/classes/class-wc-subscriptions-admin.php:855
+[02-May-2016 05:20:54 UTC] PHP   6. WC_Subscriptions_List_Table->get_views() /home/ubuntu/workspace/wp-admin/includes/class-wp-list-table.php:389
+[02-May-2016 06:26:31 UTC] PHP Fatal error:  Cannot use object of type WP_Error as array in /home/ubuntu/workspace/wp-content/plugins/siteorigin-panels/inc/admin-actions.php on line 195
+[02-May-2016 06:26:31 UTC] PHP Stack trace:
+[02-May-2016 06:26:31 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-admin/admin-ajax.php:0
+[02-May-2016 06:26:31 UTC] PHP   2. do_action() /home/ubuntu/workspace/wp-admin/admin-ajax.php:89
+[02-May-2016 06:26:31 UTC] PHP   3. call_user_func_array:{/home/ubuntu/workspace/wp-includes/plugin.php:525}() /home/ubuntu/workspace/wp-includes/plugin.php:525
+[02-May-2016 06:26:31 UTC] PHP   4. siteorigin_panels_ajax_get_prebuilt_layout() /home/ubuntu/workspace/wp-includes/plugin.php:525
+[02-May-2016 06:31:12 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, class 'WooCommerce_Membership_Product' does not have a method 'post_deleted' in /home/ubuntu/workspace/wp-includes/plugin.php on line 525
+[02-May-2016 06:31:12 UTC] PHP Stack trace:
+[02-May-2016 06:31:12 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-admin/post.php:0
+[02-May-2016 06:31:12 UTC] PHP   2. include() /home/ubuntu/workspace/wp-admin/post.php:173
+[02-May-2016 06:31:12 UTC] PHP   3. wp_delete_post_revision() /home/ubuntu/workspace/wp-admin/edit-form-advanced.php:208
+[02-May-2016 06:31:12 UTC] PHP   4. wp_delete_post() /home/ubuntu/workspace/wp-includes/revision.php:420
+[02-May-2016 06:31:12 UTC] PHP   5. do_action() /home/ubuntu/workspace/wp-includes/post.php:2511
+[02-May-2016 06:31:12 UTC] PHP   6. call_user_func_array:{/home/ubuntu/workspace/wp-includes/plugin.php:525}() /home/ubuntu/workspace/wp-includes/plugin.php:525
+[02-May-2016 06:42:43 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/wp-content/plugins/woocommerce-subscriptions/classes/class-wc-subscriptions-list-table.php on line 520
+[02-May-2016 06:42:43 UTC] PHP Stack trace:
+[02-May-2016 06:42:43 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-admin/admin.php:0
+[02-May-2016 06:42:43 UTC] PHP   2. do_action() /home/ubuntu/workspace/wp-admin/admin.php:236
+[02-May-2016 06:42:43 UTC] PHP   3. call_user_func_array:{/home/ubuntu/workspace/wp-includes/plugin.php:525}() /home/ubuntu/workspace/wp-includes/plugin.php:525
+[02-May-2016 06:42:43 UTC] PHP   4. WC_Subscriptions_Admin::subscriptions_management_page() /home/ubuntu/workspace/wp-includes/plugin.php:525
+[02-May-2016 06:42:43 UTC] PHP   5. WP_List_Table->views() /home/ubuntu/workspace/wp-content/plugins/woocommerce-subscriptions/classes/class-wc-subscriptions-admin.php:855
+[02-May-2016 06:42:43 UTC] PHP   6. WC_Subscriptions_List_Table->get_views() /home/ubuntu/workspace/wp-admin/includes/class-wp-list-table.php:389
